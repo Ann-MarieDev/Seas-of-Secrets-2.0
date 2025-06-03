@@ -34,9 +34,7 @@
     "IDEVersion":"2024.13.1.193",
   },
   "name":"sos_2.0",
-  "resources":[
-    {"id":{"name":"test","path":"objects/test/test.yy",},},
-  ],
+  "resources":[],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[],
