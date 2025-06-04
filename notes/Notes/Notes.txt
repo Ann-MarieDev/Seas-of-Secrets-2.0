@@ -1,0 +1,34 @@
+
+Nalas Room:
+Lizzard cage
+
+Orlandos Room:
+Ukelale
+Surf board
+Metal water bottle (Totally hydro flask)
+Poloriod photos
+Desk
+notebook
+books
+rug
+Skateboard (once orlando gets one)
+
+
+TO DO:
+- Re-do all code and try not to kill self in the process 
+	
+- Crack window open when going into window
+- rough draft of whole map
+- windows shine from outside --> living room
+- make enter the consistant button for interactions
+
+ - pikininc 
+ - make a super ijnsanely obnotiouse keybind to view admin privliages
+ - add the baby tree me and my momn planted at our old house in front of the neightbors hpouse
+ - add a su[ppppppper big tree and a long tree (big for backyard of bneighbors house)
+	
+later stuff td:
+- fix lighting in nalas home
+
+
+

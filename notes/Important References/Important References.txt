@@ -1,0 +1,12 @@
+Notes:
+
+	Font Size:
+Font 14px by 21px
+
+	Tile size:
+48px x 48px
+
+	Room view port:
+Inside rooms:
+Camera poperties: 432px x 324 px
+Viewport poperties: 864px x 648px

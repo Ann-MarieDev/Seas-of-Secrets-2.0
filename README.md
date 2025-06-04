@@ -1,1 +1,2 @@
-# Seas-of-Secrets-2.0
+# Seas of Secrets
+ Seas of Secrets project files

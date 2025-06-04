@@ -1,0 +1,1 @@
+global.font_main = font_add_sprite(Spr_Nala_Font_New, 32, true, 1); 
