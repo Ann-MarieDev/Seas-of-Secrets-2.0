@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Spr_Nalas_Bed",
   "bboxMode":2,
-  "bbox_bottom":79,
+  "bbox_bottom":74,
   "bbox_left":5,
   "bbox_right":40,
   "bbox_top":-1,
@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"Sprs",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Nala's Room/Sprs.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Nala's Room/Sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -64,12 +64,16 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":84.0,
+    "seqWidth":42.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f343911e-76fc-4650-bbf8-fbd3a1aa5209","path":"sprites/Spr_Nalas_Bed/Spr_Nalas_Bed.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b21aca90-7b46-4b3f-aa37-0088cee7a546","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f343911e-76fc-4650-bbf8-fbd3a1aa5209","path":"sprites/Spr_Nalas_Bed/Spr_Nalas_Bed.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b21aca90-7b46-4b3f-aa37-0088cee7a546","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

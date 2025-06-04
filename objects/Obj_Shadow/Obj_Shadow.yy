@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Shadow",
+  "%Name":"Obj_shadow",
   "eventList":[],
   "managed":true,
-  "name":"Obj_Shadow",
+  "name":"Obj_shadow",
   "overriddenProperties":[],
   "parent":{
     "name":"Asset Objects",
-    "path":"folders/Sprites && Objects/Assets/Asset Objects.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Asset Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Shadow",
-    "path":"sprites/Spr_Shadow/Spr_Shadow.yy",
+    "name":"Spr_shadow",
+    "path":"sprites/Spr_shadow/Spr_shadow.yy",
   },
   "spriteMaskId":null,
   "visible":true,

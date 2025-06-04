@@ -28,7 +28,7 @@
   "origin":0,
   "parent":{
     "name":"Sprs",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Nala's Room/Sprs.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Nala's Room/Sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -65,12 +65,16 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":75.0,
+    "seqWidth":98.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"93605853-e76e-423b-ac7b-77d0de64dc36","path":"sprites/Spr_Nalas_Desk/Spr_Nalas_Desk.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f45ef10e-c24a-47e1-aa2c-ad4aef4d9e58","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"93605853-e76e-423b-ac7b-77d0de64dc36","path":"sprites/Spr_Nalas_Desk/Spr_Nalas_Desk.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f45ef10e-c24a-47e1-aa2c-ad4aef4d9e58","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -8,8 +8,8 @@
   "name":"Obj_Nalas_House_Top",
   "overriddenProperties":[],
   "parent":{
-    "name":"Seas Of Secrets Demo Test",
-    "path":"Seas Of Secrets Demo Test.yyp",
+    "name":"Seas-of-Secrets",
+    "path":"Seas-of-Secrets.yyp",
   },
   "parentObjectId":{
     "name":"Obj_wall",

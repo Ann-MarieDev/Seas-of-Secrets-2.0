@@ -6,8 +6,8 @@
   "name":"Obj_Orlando",
   "overriddenProperties":[],
   "parent":{
-    "name":"Orlando Objs",
-    "path":"folders/Sprites && Objects/Characters/Character Objects/Orlando Objs.yy",
+    "name":"Character Objects",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Characters/Character Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,

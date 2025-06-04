@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Asset Objects",
-    "path":"folders/Sprites && Objects/Assets/Asset Objects.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Asset Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

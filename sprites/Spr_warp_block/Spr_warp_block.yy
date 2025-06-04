@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Asset Sprites",
-    "path":"folders/Sprites && Objects/Assets/Asset Sprites.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Asset Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

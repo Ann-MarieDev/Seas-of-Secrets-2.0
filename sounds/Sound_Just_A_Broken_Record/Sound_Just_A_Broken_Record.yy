@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":18.528414,
+  "duration":0.0,
   "name":"Sound_Just_A_Broken_Record",
   "parent":{
     "name":"Sounds",

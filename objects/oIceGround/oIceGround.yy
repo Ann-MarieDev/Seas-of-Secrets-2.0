@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Slide System",
-    "path":"folders/Sprites && Objects/Assets/Slide System.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Slide System.yy",
   },
   "parentObjectId":null,
   "persistent":false,

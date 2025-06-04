@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Black",
+  "%Name":"Obj_black",
   "eventList":[],
   "managed":true,
-  "name":"Obj_Black",
+  "name":"Obj_black",
   "overriddenProperties":[],
   "parent":{
     "name":"Asset Objects",
-    "path":"folders/Sprites && Objects/Assets/Asset Objects.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Asset Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Black",
-    "path":"sprites/Spr_Black/Spr_Black.yy",
+    "name":"Spr_black",
+    "path":"sprites/Spr_black/Spr_black.yy",
   },
   "spriteMaskId":null,
   "visible":true,

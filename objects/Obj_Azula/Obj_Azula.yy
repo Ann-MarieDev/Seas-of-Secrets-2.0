@@ -8,8 +8,8 @@
   "name":"Obj_Azula",
   "overriddenProperties":[],
   "parent":{
-    "name":"Azula Objs",
-    "path":"folders/Sprites && Objects/Characters/Character Objects/Shittens/Azula Objs.yy",
+    "name":"Character Objects",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Characters/Character Objects.yy",
   },
   "parentObjectId":{
     "name":"Obj_wall",

@@ -8,8 +8,8 @@
   "name":"Obj_Millie",
   "overriddenProperties":[],
   "parent":{
-    "name":"Millie Objs",
-    "path":"folders/Sprites && Objects/Characters/Character Objects/Shittens/Millie Objs.yy",
+    "name":"Character Objects",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Characters/Character Objects.yy",
   },
   "parentObjectId":{
     "name":"Obj_wall",

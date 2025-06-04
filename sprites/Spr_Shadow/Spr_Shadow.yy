@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Spr_Shadow",
+  "%Name":"Spr_shadow",
   "bboxMode":0,
   "bbox_bottom":41,
   "bbox_left":0,
@@ -21,19 +21,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"7c7cb7f6-96b0-4ba1-96ae-e2975bad959f","blendMode":0,"displayName":"default","isLocked":false,"name":"7c7cb7f6-96b0-4ba1-96ae-e2975bad959f","opacity":50.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Spr_Shadow",
+  "name":"Spr_shadow",
   "nineSlice":null,
   "origin":0,
   "parent":{
     "name":"Asset Sprites",
-    "path":"folders/Sprites && Objects/Assets/Asset Sprites.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Asset Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Spr_Shadow",
+    "%Name":"Spr_shadow",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Spr_Shadow",
+    "name":"Spr_shadow",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -68,7 +68,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a507754-ee79-4e87-878a-41200c6bc17a","path":"sprites/Spr_Shadow/Spr_Shadow.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a7c1a1e1-281f-4a3f-9402-0c819e34a3a5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a507754-ee79-4e87-878a-41200c6bc17a","path":"sprites/Spr_shadow/Spr_shadow.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a7c1a1e1-281f-4a3f-9402-0c819e34a3a5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

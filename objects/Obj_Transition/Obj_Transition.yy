@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Transition",
+  "%Name":"Obj_transition",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,11 +8,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Transition",
+  "name":"Obj_transition",
   "overriddenProperties":[],
   "parent":{
     "name":"Asset Objects",
-    "path":"folders/Sprites && Objects/Assets/Asset Objects.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Assets/Asset Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Transition",
-    "path":"sprites/Spr_Transition/Spr_Transition.yy",
+    "name":"Spr_transition",
+    "path":"sprites/Spr_transition/Spr_transition.yy",
   },
   "spriteMaskId":null,
   "visible":true,

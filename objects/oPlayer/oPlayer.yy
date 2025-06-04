@@ -9,8 +9,8 @@
   "name":"oPlayer",
   "overriddenProperties":[],
   "parent":{
-    "name":"Nala Objs",
-    "path":"folders/Sprites && Objects/Characters/Character Objects/Nala Objs.yy",
+    "name":"Character Objects",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Characters/Character Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,

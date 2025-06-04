@@ -8,8 +8,8 @@
   "name":"Obj_Saphire",
   "overriddenProperties":[],
   "parent":{
-    "name":"Saphire Objs",
-    "path":"folders/Sprites && Objects/Characters/Character Objects/Shittens/Saphire Objs.yy",
+    "name":"Character Objects",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Characters/Character Objects.yy",
   },
   "parentObjectId":{
     "name":"Obj_wall",

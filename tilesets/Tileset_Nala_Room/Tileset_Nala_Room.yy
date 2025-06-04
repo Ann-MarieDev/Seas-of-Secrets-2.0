@@ -1,25 +1,25 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"Tileset_Nala_Room",
+  "%Name":"Tileset_nala_room",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"Tileset_Nala_Room",
+  "name":"Tileset_nala_room",
   "out_columns":8,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Nalas Street",
-    "path":"folders/Tile Sets/Nalas Street.yy",
+    "name":"Nalas House",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Tilesets/Nalas House.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Spr_Tileset_Nala_Room_and_Attic",
-    "path":"sprites/Spr_Tileset_Nala_Room_and_Attic/Spr_Tileset_Nala_Room_and_Attic.yy",
+    "name":"Spr_nala_room",
+    "path":"sprites/Spr_nala_room/Spr_nala_room.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
