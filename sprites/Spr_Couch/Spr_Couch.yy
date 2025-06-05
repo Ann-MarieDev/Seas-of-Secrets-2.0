@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"Sprs",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Front Room/Sprs.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Nala's Frontroom/Sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -64,6 +64,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":48.0,
+    "seqWidth":83.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,

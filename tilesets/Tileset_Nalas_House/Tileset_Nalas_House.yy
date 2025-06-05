@@ -12,8 +12,8 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Nalas Street",
-    "path":"folders/Tile Sets/Nalas Street.yy",
+    "name":"Nalas House",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Tilesets/Nalas House.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

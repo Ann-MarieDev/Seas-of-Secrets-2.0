@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_LightFloor",
-  "eventList":[],
+  "%Name":"Obj_so_nala_attic",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_LightFloor",
+  "name":"Obj_so_nala_attic",
   "overriddenProperties":[],
   "parent":{
     "name":"Objs",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Garage/Objs.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Music/Objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_LightFloor",
-    "path":"sprites/Spr_LightFloor/Spr_LightFloor.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

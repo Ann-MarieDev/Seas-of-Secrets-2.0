@@ -29,7 +29,7 @@
   "origin":0,
   "parent":{
     "name":"Sprs",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Attic/Sprs.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Nala's Attic/Sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Tilesets",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Tilesets.yy",
+    "name":"Nalas House",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Tilesets/Nalas House.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

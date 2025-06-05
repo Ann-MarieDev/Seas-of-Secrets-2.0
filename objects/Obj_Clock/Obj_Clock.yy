@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objs",
-    "path":"folders/Sprites && Objects/MAIN WORLD/Nala's Street/Nalas House/Front Room/Objs.yy",
+    "path":"folders/FIXED GAME FILES GO HERE :D/Nalas House/Nala's Frontroom/Objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,
